@@ -19,6 +19,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0709-to-lower-case) |
 ## Simulation
@@ -54,6 +55,7 @@
 | [0001-two-sum](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -78,4 +80,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0088-merge-sorted-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
