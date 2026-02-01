@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 ## String
@@ -88,4 +89,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
