@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 ## String
@@ -44,6 +45,7 @@
 | [0027-remove-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1480-running-sum-of-1d-array) |
 ## Trie
@@ -56,6 +58,7 @@
 | [0001-two-sum](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
@@ -77,10 +80,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 ## Queue
 |  |
 | ------- |
@@ -93,6 +98,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
