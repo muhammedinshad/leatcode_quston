@@ -24,6 +24,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0709-to-lower-case) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1480-running-sum-of-1d-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 ## Trie
 |  |
