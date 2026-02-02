@@ -55,6 +55,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1480-running-sum-of-1d-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 ## Trie
 |  |
