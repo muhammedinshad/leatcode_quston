@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
