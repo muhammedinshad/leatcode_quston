@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
+| [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1480-running-sum-of-1d-array) |
+| [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 ## Trie
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
+| [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 ## Queue
 |  |
 | ------- |
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
