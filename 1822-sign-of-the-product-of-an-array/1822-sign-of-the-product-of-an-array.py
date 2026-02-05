@@ -10,7 +10,4 @@ class Solution(object):
                 return i
             elif i < 0:
                 c +=1
-        if c%2 == 0:
-            return 1
-        else :
-            return -1
+        return 1 if c%2 == 0 else -1 
