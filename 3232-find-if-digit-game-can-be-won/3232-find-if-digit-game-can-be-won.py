@@ -4,7 +4,11 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        alice = [i for i in nums if i < 10]
-        bob = [i for i in nums if i >= 10]
-       
-        return sum(alice) != sum(bob)
+        count1 = 0
+        count2 = 0
+        for num in nums:
+            if num < 10:
+                count1 += num
+            else:
+                count2 += num
+        return count1 != count2
