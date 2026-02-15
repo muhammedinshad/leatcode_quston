@@ -12,6 +12,7 @@
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -131,6 +132,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
