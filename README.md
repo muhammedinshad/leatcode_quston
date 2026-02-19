@@ -63,6 +63,7 @@
 | [0027-remove-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
@@ -132,6 +133,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [1486-xor-operation-in-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1486-xor-operation-in-an-array) |
