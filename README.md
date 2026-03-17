@@ -35,6 +35,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0709-to-lower-case) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -75,6 +76,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -97,6 +99,7 @@
 | [0217-contains-duplicate](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3731-find-missing-elements) |
 ## Backtracking
@@ -137,6 +140,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -146,6 +150,7 @@
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0476-number-complement) |
 | [1486-xor-operation-in-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
 | ------- |
