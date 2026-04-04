@@ -77,6 +77,7 @@
 | [0283-move-zeroes](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -102,6 +103,7 @@
 | [0217-contains-duplicate](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3731-find-missing-elements) |
@@ -133,6 +135,7 @@
 | [0217-contains-duplicate](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3731-find-missing-elements) |
 ## Queue
@@ -174,4 +177,8 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0190-reverse-bits) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
