@@ -72,6 +72,7 @@
 | [0035-search-insert-position](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0283-move-zeroes) |
@@ -100,6 +101,7 @@
 | [0001-two-sum](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
@@ -145,6 +148,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Bit Manipulation
@@ -176,6 +180,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0190-reverse-bits) |
 ## Counting Sort
 |  |
