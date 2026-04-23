@@ -34,6 +34,7 @@
 | [0058-length-of-last-word](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
@@ -103,6 +104,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -136,6 +138,7 @@
 | [0088-merge-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
