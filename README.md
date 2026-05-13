@@ -44,6 +44,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1903-largest-odd-number-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2942-find-words-containing-character) |
@@ -53,6 +54,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1389-create-target-array-in-the-given-order) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -91,6 +93,7 @@
 | [1672-richest-customer-wealth](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
