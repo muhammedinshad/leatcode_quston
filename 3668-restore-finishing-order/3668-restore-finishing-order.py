@@ -9,7 +9,4 @@ class Solution(object):
         for i in order:
             if i in friends:
                 res.append(i)
-
-        return res
-
-        
+        return res        
