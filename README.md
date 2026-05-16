@@ -101,6 +101,7 @@
 | [2942-find-words-containing-character](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3668-restore-finishing-order](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
@@ -122,6 +123,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3668-restore-finishing-order](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
