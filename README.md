@@ -57,6 +57,7 @@
 | [1389-create-target-array-in-the-given-order](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1389-create-target-array-in-the-given-order) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3731-find-missing-elements) |
+| [3925-concatenate-array-with-reverse](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
 | ------- |
