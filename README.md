@@ -39,6 +39,7 @@
 | [0205-isomorphic-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/muhammedinshad/leatcode_quston/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
@@ -69,6 +70,7 @@
 | [0125-valid-palindrome](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/muhammedinshad/leatcode_quston/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2108-find-first-palindromic-string-in-the-array) |
