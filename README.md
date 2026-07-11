@@ -43,6 +43,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0500-keyboard-row) |
 | [0709-to-lower-case](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0709-to-lower-case) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -90,6 +91,7 @@
 | [0283-move-zeroes](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0414-third-maximum-number) |
+| [0500-keyboard-row](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0500-keyboard-row) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -129,6 +131,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0389-find-the-difference) |
+| [0500-keyboard-row](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0500-keyboard-row) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1832-check-if-the-sentence-is-pangram) |
