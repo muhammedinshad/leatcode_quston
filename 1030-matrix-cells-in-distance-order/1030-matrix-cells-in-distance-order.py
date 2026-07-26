@@ -15,5 +15,4 @@ class Solution(object):
 
         # Sort by Manhattan distance
         cells.sort(key=lambda x: abs(x[0] - rCenter) + abs(x[1] - cCenter))
-
         return cells
