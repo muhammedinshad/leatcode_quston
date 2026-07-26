@@ -13,6 +13,7 @@
 | [0412-fizz-buzz](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0507-perfect-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
+| [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -99,6 +100,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedinshad/leatcode_quston/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
+| [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -178,6 +180,7 @@
 | [0414-third-maximum-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/muhammedinshad/leatcode_quston/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
+| [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3731-find-missing-elements) |
@@ -214,6 +217,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
 | [1672-richest-customer-wealth](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
@@ -228,4 +232,8 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->
