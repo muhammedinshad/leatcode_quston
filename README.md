@@ -77,6 +77,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/muhammedinshad/leatcode_quston/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Array
@@ -98,6 +99,7 @@
 | [0500-keyboard-row](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/muhammedinshad/leatcode_quston/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedinshad/leatcode_quston/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
@@ -179,6 +181,7 @@
 | [0389-find-the-difference](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/muhammedinshad/leatcode_quston/tree/master/0506-relative-ranks) |
+| [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
