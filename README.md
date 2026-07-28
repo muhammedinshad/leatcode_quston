@@ -99,6 +99,7 @@
 | [0500-keyboard-row](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/muhammedinshad/leatcode_quston/tree/master/0506-relative-ranks) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedinshad/leatcode_quston/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0888-fair-candy-swap](https://github.com/muhammedinshad/leatcode_quston/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
@@ -142,6 +143,7 @@
 | [0389-find-the-difference](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedinshad/leatcode_quston/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0888-fair-candy-swap](https://github.com/muhammedinshad/leatcode_quston/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -169,6 +171,7 @@
 | [0035-search-insert-position](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0349-intersection-of-two-arrays) |
+| [0888-fair-candy-swap](https://github.com/muhammedinshad/leatcode_quston/tree/master/0888-fair-candy-swap) |
 ## Sorting
 |  |
 | ------- |
@@ -181,6 +184,7 @@
 | [0389-find-the-difference](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/muhammedinshad/leatcode_quston/tree/master/0506-relative-ranks) |
+| [0888-fair-candy-swap](https://github.com/muhammedinshad/leatcode_quston/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
