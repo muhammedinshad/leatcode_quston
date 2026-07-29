@@ -98,6 +98,7 @@
 | [0414-third-maximum-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/muhammedinshad/leatcode_quston/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/muhammedinshad/leatcode_quston/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedinshad/leatcode_quston/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0888-fair-candy-swap](https://github.com/muhammedinshad/leatcode_quston/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
@@ -184,6 +185,7 @@
 | [0389-find-the-difference](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/muhammedinshad/leatcode_quston/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/muhammedinshad/leatcode_quston/tree/master/0561-array-partition) |
 | [0888-fair-candy-swap](https://github.com/muhammedinshad/leatcode_quston/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
@@ -229,6 +231,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/muhammedinshad/leatcode_quston/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
@@ -238,6 +241,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/muhammedinshad/leatcode_quston/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Geometry
 |  |
