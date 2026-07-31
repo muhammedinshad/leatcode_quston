@@ -106,6 +106,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
+| [1200-minimum-absolute-difference](https://github.com/muhammedinshad/leatcode_quston/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -191,6 +192,7 @@
 | [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
+| [1200-minimum-absolute-difference](https://github.com/muhammedinshad/leatcode_quston/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/muhammedinshad/leatcode_quston/tree/master/1859-sorting-the-sentence) |
 | [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
