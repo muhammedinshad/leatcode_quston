@@ -15,6 +15,5 @@ class Solution(object):
                 result = [[arr[i - 1], arr[i]]]
             elif diff == min_diff:
                 result.append([arr[i - 1], arr[i]])
-
         return result
         
