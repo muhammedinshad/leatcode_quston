@@ -7,7 +7,6 @@ class Solution(object):
         arr.sort()
         min_diff = float('inf')
         result = []
-
         for i in range(1, len(arr)):
             diff = arr[i] - arr[i - 1]
 
