@@ -125,6 +125,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/muhammedinshad/leatcode_quston/tree/master/3745-maximize-expression-of-three-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
@@ -197,6 +198,7 @@
 | [1859-sorting-the-sentence](https://github.com/muhammedinshad/leatcode_quston/tree/master/1859-sorting-the-sentence) |
 | [2974-minimum-number-game](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/muhammedinshad/leatcode_quston/tree/master/3745-maximize-expression-of-three-elements) |
 ## Queue
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/muhammedinshad/leatcode_quston/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/1903-largest-odd-number-in-string) |
+| [3745-maximize-expression-of-three-elements](https://github.com/muhammedinshad/leatcode_quston/tree/master/3745-maximize-expression-of-three-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -251,4 +254,8 @@
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/muhammedinshad/leatcode_quston/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
