@@ -6,6 +6,5 @@ class Solution(object):
         """
         n = sorted(nums)
         res = n[-1]+n[-2]-n[0]
-        
+
         return res
-        
