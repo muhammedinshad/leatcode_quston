@@ -11,6 +11,5 @@ class Solution(object):
             if count[num] > 0:
                 result.append(num)
                 count[num] -= 1
-
         return result
         
