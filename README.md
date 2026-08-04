@@ -77,6 +77,7 @@
 | [0344-reverse-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/muhammedinshad/leatcode_quston/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
@@ -96,6 +97,7 @@
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/muhammedinshad/leatcode_quston/tree/master/0506-relative-ranks) |
@@ -143,6 +145,7 @@
 | [0242-valid-anagram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0500-keyboard-row) |
@@ -175,6 +178,7 @@
 | [0035-search-insert-position](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0888-fair-candy-swap](https://github.com/muhammedinshad/leatcode_quston/tree/master/0888-fair-candy-swap) |
 ## Sorting
 |  |
@@ -185,6 +189,7 @@
 | [0242-valid-anagram](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/muhammedinshad/leatcode_quston/tree/master/0506-relative-ranks) |
