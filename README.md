@@ -80,6 +80,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Array
@@ -105,6 +106,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/muhammedinshad/leatcode_quston/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0888-fair-candy-swap](https://github.com/muhammedinshad/leatcode_quston/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
@@ -196,6 +198,7 @@
 | [0561-array-partition](https://github.com/muhammedinshad/leatcode_quston/tree/master/0561-array-partition) |
 | [0888-fair-candy-swap](https://github.com/muhammedinshad/leatcode_quston/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/muhammedinshad/leatcode_quston/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/muhammedinshad/leatcode_quston/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammedinshad30-web/leatcode_quston/tree/master/0977-squares-of-a-sorted-array) |
 | [1030-matrix-cells-in-distance-order](https://github.com/muhammedinshad/leatcode_quston/tree/master/1030-matrix-cells-in-distance-order) |
 | [1200-minimum-absolute-difference](https://github.com/muhammedinshad/leatcode_quston/tree/master/1200-minimum-absolute-difference) |
