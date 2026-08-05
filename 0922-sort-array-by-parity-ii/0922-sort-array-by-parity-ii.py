@@ -14,7 +14,6 @@ class Solution(object):
                 odd += 2
             else:
                 nums[even], nums[odd] = nums[odd], nums[even]
-
         return nums
 
         
